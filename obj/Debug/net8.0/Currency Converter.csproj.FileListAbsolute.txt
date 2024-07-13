@@ -12,3 +12,4 @@ c:\Users\neoww\Desktop\Folder\Work\CSharp\Currency Converter\obj\Debug\net8.0\re
 c:\Users\neoww\Desktop\Folder\Work\CSharp\Currency Converter\obj\Debug\net8.0\Currency Converter.pdb
 c:\Users\neoww\Desktop\Folder\Work\CSharp\Currency Converter\obj\Debug\net8.0\Currency Converter.genruntimeconfig.cache
 c:\Users\neoww\Desktop\Folder\Work\CSharp\Currency Converter\obj\Debug\net8.0\ref\Currency Converter.dll
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Currency Converter\obj\Debug\net8.0\Currency Converter.sourcelink.json
