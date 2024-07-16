@@ -3,7 +3,7 @@
 Console.WriteLine("Выберите тип конвертации:\n1 - Рубли -> Доллары\t 2 - Доллары -> Рубли");
 string type = Console.ReadLine();
 
-double rate = 87.74;
+double rate = 87.81;
 
 switch (type)
 {
